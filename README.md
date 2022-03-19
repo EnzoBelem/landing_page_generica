@@ -17,7 +17,7 @@ O projeto é de nivel iniciante e teve foco exclusivamente em:
 é bem simples e requer somente alguns passos:
 ```bash
 #clonar o repositório
-  git clone 
+  git clone https://github.com/EnzoBelem/Interface-Responsiva-Bootstrap
 
 #acessar a pasta do projeto
 
