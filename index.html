@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Finans</title>
+        <!--favicon-->
+        <link rel="icon" type="image/x-icon" href="img/favicon.png"> 
+        <!--stylesheet CSS-->
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+        <!-- Bootstrap CSS -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+        <!--font awesome-->
+        <script src="https://kit.fontawesome.com/3797641237.js" crossorigin="anonymous"></script>
+        <!--AOS library animations-->
+        <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    </head>
+    <body>
+        <head><!--/init cabecalho-->
+            <nav class="navbar navbar-expand-sm navbar-light bg-warning">
+                <div class="container">
+                    <!--logo site-->
+                    <a class="navbar-brand" href="">
+                        <img src="img/logo.png" alt="logo" width="142px">
+                    </a>
+                    <!--togller btn-->
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
+                        <i class="fa-solid fa-bars" style="color: white;"></i>
+                    </button>
+                    <!--nav itens-->
+                    <div class="collapse navbar-collapse" id="navMenu">
+                        <ul class="navbar-nav ms-auto fs-5 d-flex align-items-center">
+                            <li class="nav-item"><a class="nav-link" href="">Home</a></li> 
+                            <li class="nav-item"><a class="nav-link" href="#">Recursos</a></li> 
+                            <li class="nav-item"><a class="nav-link" href="#">Benefícios</a></li> 
+                            <li class="nav-item"><a class="nav-link" href="#">Preço</a></li> 
+                            <li class="nav-item ms-md-4"><a class="btn btn-outline-light fs-5" href="#">Entrar</a></li>
+                         </ul>
+                    </div>
+                </div>
+            </nav>
+        </head><!--/fim cabecalho-->
+       
+        <section class="bg-warning"><!--/init secao home-->
+            <div class="container">
+                <div class="row">
+                    <!--conteudo-->
+                    <div class="col-md-6 my-2 g-lg-0 d-block d-lg-flex align-items-center"
+                    data-aos="zoom-in-down">
+                        <div class="text-white fs-5">
+                            <h1 class="display-4 fw-bolder">Suas contas, descomplicadas.</h1>
+                            <p>Usado por mais de 50 mil brasileiros, o Finans é uma ferramenta online 
+                            que vai failitar sua vida financeira.</p>
+                            <form class="my-4">
+                                <div class="input-group input-group-lg">
+                                    <input class="form-control bg-light border-white" type="email" placeholder="Digite seu email">
+                                    <input class="btn btn-outline-light" type="submit" value="Cadastrar">    
+                                </div>
+                            </form>
+                            <span>Disponível para</span>
+                            <a id="androidB" class="btn btn-outline-light mx-2" href="https://play.google.com/store?hl=pt_BR&gl=US">
+                                <i class="fab fa-android fa-2x"></i></a>e
+                            <a id="appleB" class="btn btn-outline-light mx-2" href="https://www.apple.com/br/app-store/">
+                                <i class="fab fa-apple fa-2x"></i></a>
+                        </div>
+                    </div>
+                    <!--imagem-->
+                    <div class="col-md-6 d-none d-md-flex justify-content-center"  data-aos="slide-left">
+                        <img id="mulherHome" src="img/capa-mulher.png" alt="mulher segurando dinheiro">
+                    </div>
+                </div>
+            </div>
+        </section><!--/fim secao home-->
+
+        <!--conteudo 1-->
+        <section id="saibaMais" class="box border-bottom" data-aos="fade-left">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 d-flex order-2 order-md-1">
+                        <div class="align-self-center">
+                           <h2 class="display-3">Saiba para onde vai o seu dinheiro.</h2>
+                           <p class="fs-5">
+                               Com o Finans. você categoriza todos os seus lançamentos.
+                               Com gráficos simples, você sabe de onde vem e para onde vai
+                               o seu dinheiro.
+                           </p>
+                           <a class="btn btn-warning text-white fs-5" href="#">Veja mais</a>
+                        </div>
+                    </div>
+                    <div class="col-md-6 d-flex align-items-center order-1 order-md-2">
+                        <img class="img-fluid" src="img/saiba.png" alt="saiba">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!--conteudo 2-->
+        <section id="juros" class="box  border-bottom" data-aos="fade-right">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <img class="img-fluid" src="img/juros.png" alt="saiba">
+                    </div>
+                    <div class="col-md-6 d-flex">
+                        <div class="align-self-center">
+                           <h2 class="display-3">Pare de pagar juros e economize.</h2>
+                           <p class="fs-5">
+                               Manter as contas em dia é sempre um problema? O Finans
+                               avisa você: receba alertas de contas a pagar e a receber!
+                           </p>
+                           <a class="btn btn-warning text-white fs-5" href="#">Veja mais</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!--conteudo 3-->
+        <section id="beneficios" class="box">
+            <div class="container d-flex justify-content-around">
+                <div class="row">
+                    <div class="col border-end" data-aos="zoom-in">
+                       <img class="img-fluid" src="img/facil.png" alt="facil">
+                       <h4>Fácil de usar</h4>
+                       <p>
+                           O Finans vai além do básico e permite que você faça controles incríveis,
+                           essenciais para suas finanças. Simples como tem que ser!
+                       </p>
+                    </div>
+                    <div class="col  border-end" data-aos="zoom-out">
+                        <img class="img-fluid" src="img/economize.png" alt="facil">
+                        <h4>Economize seu tempo</h4>
+                        <p>
+                            Tempo é dinehiro! E, segundoso, você tem tudo osb controle e 
+                            aproveite seu tempo com o que realmente importa pra você!
+                        </p>
+                    </div>
+                    <div class="col" data-aos="zoom-in">
+                        <img class="img-fluid" src="img/suporte.png" alt="facil">
+                        <h4>Suporte amigo</h4>
+                        <p>
+                            Dúvidas? Perguntas? Nosso suporte super legal ajuda você! A
+                            gente tá aqui pra resolver seus problemas e deixar sua vida
+                            bem mais fácil!
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <footer class="bg-warning py-4"><!--/init rodape-->
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <h5>Links Úteis</h5>
+                        <p>
+                            <a href="">Home</a>
+                            <a href="#saibaMais">Saiba mais</a>
+                            <a href="#juros">Sobre Juros</a>
+                            <a href="#beneficios">Benefícios</a>
+                        </p>   
+                    </div> 
+                    <div class="col d-flex align-items-center justify-content-end">
+                        <a class="btn" href="#">
+                            <i class="fab fa-facebook fa-2x"></i>
+                        </a>
+                        <a class="btn" href="#">
+                            <i class="fab fa-instagram fa-2x"></i>
+                        </a>
+                        <a class="btn" href="#">
+                            <i class="fab fa-twitter fa-2x"></i>
+                        </a>
+                        <a class="btn" href="https://github.com/EnzoBelem">
+                            <i class="fab fa-github fa-2x"></i>
+                        </a><span>/EnzoBelem</span>
+                    </div>
+                </div>
+            </div>
+        </footer><!--/fim rodape-->
+
+        <!-- Bootstrap JS -->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+        <!--AOS js-->
+        <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+        <script>AOS.init();</script>
+    </body>
+</html>
