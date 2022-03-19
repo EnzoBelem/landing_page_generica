@@ -21,7 +21,8 @@ O projeto é de nivel iniciante e teve foco exclusivamente em:
   git clone https://github.com/EnzoBelem/Interface-Responsiva-Bootstrap
 
 #acessar a pasta do projeto
-
+  Interface-Responsiva-Bootstrap/...
+  
 #executar o arquivo html
   index.html
 ```
