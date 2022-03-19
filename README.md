@@ -7,6 +7,10 @@
 
 Foi realizada a implementação da página inicial de uma plataforma para organização de finanças pessoais, com o diferencial de ser feita com uso do Bootstrap 5 além de mudanças e adições feitas por mim que deram um toque no visual da página.
 
+![Finans](https://user-images.githubusercontent.com/99738653/159114117-d356abc2-a5ee-4c39-a2ad-8dee8b2437c4.png)
+![Finans2](https://user-images.githubusercontent.com/99738653/159114119-0cdb4970-c234-4aa9-9cc4-ed98cddba3d9.png)
+![Finans3](https://user-images.githubusercontent.com/99738653/159114152-0ffdc661-4898-41a7-8a64-a37be5317633.png)
+![Finans4](https://user-images.githubusercontent.com/99738653/159114153-ca8e7e37-982c-48ad-8f3a-be083b5fc993.png)
 
 # Tecnologias utilizadas
 O projeto é de nivel iniciante e teve foco exclusivamente em:
