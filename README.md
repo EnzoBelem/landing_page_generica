@@ -2,7 +2,8 @@
 
 # Sobre o projeto
 
-"Interface Responsiva Bootstrap" foi um projeto rápido de revisão sobre alguns dos principais pontos abordados na seção sobre Bootstrap do curso de **desenvolvimento web 2022** criado por Jorge Sant Ana e Jamilton Damasceno.(https://www.udemy.com/share/101WK03@9imQTr_2fsXYbaAYZA2aLhOyKmYPaLv9GAQtJxW8Mq01VbOhiVmFf6BkKA4JkM1IcA==/)
+"Interface Responsiva Bootstrap" foi um projeto rápido de revisão sobre alguns dos principais pontos abordados na seção sobre Bootstrap do curso de **desenvolvimento web 2022** criado por Jorge Sant Ana e Jamilton Damasceno.
+(https://www.udemy.com/shar/101WK03@9imQTr_2fsXYbaAYZA2aLhOyKmYPaLv9GAQtJxW8Mq01VbOhiVmFf6BkKA4JkM1IcA==/)
 
 Foi realizada a implementação da página inicial de uma plataforma para organização de finanças pessoais, com o diferencial de ser feita com uso do Bootstrap 5 além de mudanças e adições feitas por mim que deram um toque no visual da página.
 
