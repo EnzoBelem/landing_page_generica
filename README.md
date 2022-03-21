@@ -6,11 +6,16 @@
 (https://www.udemy.com/shar/101WK03@9imQTr_2fsXYbaAYZA2aLhOyKmYPaLv9GAQtJxW8Mq01VbOhiVmFf6BkKA4JkM1IcA==/)
 
 Foi realizada a implementação da página inicial de uma plataforma para organização de finanças pessoais, com o diferencial de ser feita com uso do Bootstrap 5 além de mudanças e adições feitas por mim que deram um toque no visual da página.
-
-![Finans](https://user-images.githubusercontent.com/99738653/159114117-d356abc2-a5ee-4c39-a2ad-8dee8b2437c4.png)
-![Finans2](https://user-images.githubusercontent.com/99738653/159114119-0cdb4970-c234-4aa9-9cc4-ed98cddba3d9.png)
-![Finans3](https://user-images.githubusercontent.com/99738653/159114152-0ffdc661-4898-41a7-8a64-a37be5317633.png)
-![Finans4](https://user-images.githubusercontent.com/99738653/159114153-ca8e7e37-982c-48ad-8f3a-be083b5fc993.png)
+<!--imagens do projeto-->
+<div float="left">
+  <img src="https://user-images.githubusercontent.com/99738653/159258736-0122dfaa-7518-44f3-91a9-979aa6cc1e4d.gif"/>
+  <hr>
+  <img src="https://user-images.githubusercontent.com/99738653/159258724-5242b59a-bfc8-414e-b032-b08d03c1c13f.png" width="49%" />
+  <img src="https://user-images.githubusercontent.com/99738653/159258730-a1c6746c-11bc-440c-ba91-15dee7c22328.png" width="49%" /> 
+  <hr>
+  <img src="https://user-images.githubusercontent.com/99738653/159258734-b02525e9-d2ab-4b53-a43e-ca6cebbdd74c.png" width="49%" /> 
+  <img src="https://user-images.githubusercontent.com/99738653/159258735-251bf335-fb4c-4718-8850-fd39605458c3.png" width="49%" /> 
+</div>
 
 # Tecnologias utilizadas
 O projeto é de nivel iniciante e teve foco exclusivamente em:
