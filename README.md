@@ -1,21 +1,17 @@
-# Interface Responsiva Bootstrap
+# Interface Responsiva com Bootstrap
 
 # Sobre o projeto
 
-link: (https://interfaceresponsivabt.netlify.app/)
+link: https://enzobelem.github.io/Interface-Responsiva-Bootstrap/
 
-"Interface Responsiva Bootstrap" foi um projeto rápido de revisão sobre alguns dos principais pontos abordados na seção sobre Bootstrap do curso de **desenvolvimento web 2022** criado por Jorge Sant Ana e Jamilton Damasceno.
-
-Foi realizada a implementação da página inicial de uma plataforma para organização de finanças pessoais, com o diferencial de ser feita com uso do Bootstrap 5 além de mudanças e adições feitas por mim que deram um toque no visual da página.
+Projeto de landing page básica para revisar todos os principais aspectos do uso do Bootstrap na criação de sites. O projeto conta com layout responsivo, funcionando perfeitamente em inumeros tipos de dispositivos. Foi realizada a implementação da página inicial de uma plataforma para organização de finanças pessoais fictícia.
+  
 <!--imagens do projeto-->
-<div float="left">
-  <img src="https://user-images.githubusercontent.com/99738653/159258736-0122dfaa-7518-44f3-91a9-979aa6cc1e4d.gif"/>
+<div>
   <hr>
-  <img src="https://user-images.githubusercontent.com/99738653/159258724-5242b59a-bfc8-414e-b032-b08d03c1c13f.png" width="49%" />
-  <img src="https://user-images.githubusercontent.com/99738653/159258730-a1c6746c-11bc-440c-ba91-15dee7c22328.png" width="49%" /> 
+  <img src="https://user-images.githubusercontent.com/99738653/218535309-7ca47d06-d93a-4938-91fe-49a0dca5b017.png" style="height: 25%"/>                
+  <img src="https://user-images.githubusercontent.com/99738653/218538240-d59659e7-0fa0-49cc-afe1-c516c2e49563.png" style="height: 25%"/> 
   <hr>
-  <img src="https://user-images.githubusercontent.com/99738653/159258734-b02525e9-d2ab-4b53-a43e-ca6cebbdd74c.png" width="49%" /> 
-  <img src="https://user-images.githubusercontent.com/99738653/159258735-251bf335-fb4c-4718-8850-fd39605458c3.png" width="49%" /> 
 </div>
 
 # Tecnologias utilizadas
