@@ -2,8 +2,6 @@
 
 # Sobre o projeto
 
-link: https://enzobelem.github.io/Interface-Responsiva-Bootstrap/
-
 Projeto de landing page básica para revisar todos os principais aspectos do uso do Bootstrap na criação de sites. O projeto conta com layout responsivo, funcionando perfeitamente em inumeros tipos de dispositivos. Foi realizada a implementação da página inicial de uma plataforma para organização de finanças pessoais fictícia.
   
 <!--imagens do projeto-->
